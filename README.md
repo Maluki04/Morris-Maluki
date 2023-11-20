@@ -1,6 +1,7 @@
 Hi there👋 
 
-I am Morris Maluki from Kenya dedicated and versatile professional with expertise in both data analysis and front-end development. Adept at translating data into actionable insights and crafting engaging user experiences through web development.
+
+  ### Hi there 👋, My name is Morris Maluki from Kenya dedicated and versatile professional with expertise in both data analysis and front-end development. Adept at translating data into actionable insights and crafting engaging user experiences through web development.
 
 Skills:
 
@@ -8,7 +9,6 @@ Skills:
   
 - Front-End Development: Experienced in creating responsive and visually appealing web applications. Proficient in HTML, CSS, JavaScript, and various front-end frameworks like React.js.
 
-  ### Hi there 👋, My name is Morris Maluki
 #### Analysis and Development 
 ![Analysis and Development ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
