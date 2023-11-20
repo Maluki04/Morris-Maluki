@@ -1,9 +1,6 @@
+Hi there👋 
 
-Name: Morris Maluki  
-Location: Kenya  
-
-Summary:
-Dedicated and versatile professional with expertise in both data analysis and front-end development. Adept at translating data into actionable insights and crafting engaging user experiences through web development.
+I am Morris Maluki from Kenya dedicated and versatile professional with expertise in both data analysis and front-end development. Adept at translating data into actionable insights and crafting engaging user experiences through web development.
 
 Skills:
 
