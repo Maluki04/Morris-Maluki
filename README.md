@@ -4,11 +4,14 @@
 
 I am a dedicated and versatile professional with expertise in both data analysis and front-end development. Adept at translating data into actionable insights and crafting engaging user experiences through web development.
 
+__________________________________________________________________________________________________________________________________________________________________________________________
+
 **## Skills And Experience**
  *  ⚛️ React.js
  *  🐍 Python
  *  🖥️ HTML, CSS & Js
 
+__________________________________________________________________________________________________________________________________________________________________________________________
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Maluki04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/t.o.p.sh.a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/morris_maluki)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mirakle.company.site/)  
 
