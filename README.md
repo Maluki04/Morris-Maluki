@@ -7,7 +7,8 @@ I am a dedicated and versatile professional with expertise in both data analysis
 __________________________________________________________________________________________________________________________________________________________________________________________
 
 **## Skills And Experience**
- *  ⚛️ React.js
+ *  📅 Data Analysis
+ *  Excel
  *  🐍 Python
  *  🖥️ HTML, CSS & Js
 
